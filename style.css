@@ -555,4 +555,7 @@ label{
     .project_container{
         margin:10rem 0rem ;
     }
+    .project{
+        height:100vh;
+    }
 }
