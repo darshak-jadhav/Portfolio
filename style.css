@@ -549,6 +549,7 @@ label{
     padding:10rem 0rem;
 }
     .skills{
+        height:100vh;
         margin:10rem 0rem ;
     }
     .project_container{
