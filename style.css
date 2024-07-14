@@ -523,7 +523,7 @@ label{
         background: url("self1.jpg");
         background-size: cover;
         background-repeat: repeat;
-        width: 80vw;
+        width: 90vw;
         height: 70vh;
         padding: 3rem;
         /* color: white; */
@@ -546,9 +546,9 @@ label{
     padding: 10rem 5rem ;
 }
 .education{
-    padding:0rem ;
+    padding:10rem 0rem;
 }
     .project_container{
-        margin:0rem ;
+        margin:10rem 0rem ;
     }
 }
