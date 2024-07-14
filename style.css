@@ -456,6 +456,9 @@ label{
 }
 
 @media(max-width:600px){
+    html{
+        font-size:35%;
+    }
     label{
         display: inline;
         width: 5rem;
@@ -542,5 +545,7 @@ label{
     width: 70vw;
     padding: 10rem 5rem ;
 }
-
+.education{
+    padding:5rem ;
+}
 }
