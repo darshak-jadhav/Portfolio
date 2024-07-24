@@ -17,3 +17,7 @@ document.getElementById("instagram").onclick=function(){
 document.getElementById("linkedin").onclick=function(){
     window.open("https://www.linkedin.com/in/darshak-jadhav-56054a312/?trk=opento_sprofile_details");
 }
+
+document.getElementById("btn_project_weather").onclick=function(){
+    window.open("https://darshak-jadhav.github.io/weather-application/");
+}
