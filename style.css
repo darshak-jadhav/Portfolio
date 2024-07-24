@@ -106,7 +106,7 @@ label{
     border: 0.2rem solid var(--blk);
     border-radius: 0.5rem ;
     transition: 0.5s linear ;
-    width: 35rem ;
+    width: auto ;
     height: auto;
     margin: 2rem 0rem ;
 }
@@ -337,10 +337,13 @@ label{
     gap: 5rem ;
 }
 .project img{
-    width: 30vw;
+    width: 40rem;
     height: auto;
     border: none;
     border-radius: 1rem ;
+}
+#btn_project_weather{
+    font-size:2rem ; 
 }
 .project_container h1{
     font-size: 4rem ;
