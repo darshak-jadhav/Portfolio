@@ -312,7 +312,7 @@ label{
 /* Project section */
 .project{
     width: 100%;
-    height: 100%;
+    height: autos;
     display:grid;
     place-items:center;
     background-color: var(--main);
