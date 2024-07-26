@@ -552,13 +552,16 @@ label{
     padding:10rem 0rem;
 }
     .skills{
-        height:100vh;
+        height:auto;
+        weight:100%;
+        padding:10rem 0rem;
+        
     }
     .project_container{
         margin:10rem 0rem ;
     }
-   .project,.skills{
-       padding:10rem ;
+   .project{
+       padding:10rem 0rem;
        height:auto;
        width:100%;
    }
