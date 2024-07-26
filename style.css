@@ -38,6 +38,12 @@ header{
 }
 .nav{
     width: 70vw;
+      backdrop-filter: blur(7px) saturate(180%);
+    padding: 2rem 3rem;
+    background-color: rgba(17, 25, 40, 0.49);;
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    z-index: 1;
 }
 .nav ul{
     display: flex;
