@@ -557,7 +557,7 @@ label{
     .project_container{
         margin:10rem 0rem ;
     }
-   .project{
+   .project,.skills{
        padding:10rem ;
        height:auto;
        width:100%;
