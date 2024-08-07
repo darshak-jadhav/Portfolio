@@ -21,3 +21,6 @@ document.getElementById("linkedin").onclick=function(){
 document.getElementById("btn_project_weather").onclick=function(){
     window.open("https://darshak-jadhav.github.io/weather-application/");
 }
+document.getElementById("btn_project_gym").onclick=function(){
+    window.open("https://darshak-jadhav.github.io/Gym-website/");
+}
