@@ -348,7 +348,7 @@ label{
     border: none;
     border-radius: 1rem ;
 }
-#btn_project_weather{
+#btn_project_weather , #btn_project_gym{
     font-size:2rem ; 
 }
 .project_container h1{
