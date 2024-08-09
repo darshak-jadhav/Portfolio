@@ -10,6 +10,10 @@
     --maindiv:white;
     --mainblur:rgba(255, 255, 255, 0.270);
 }
+
+a{
+    text-decoration: none;
+}
 .darktheme{
     --mainbg:#0d1b2a;
     --maincolor:#ffff;
