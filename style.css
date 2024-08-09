@@ -372,6 +372,7 @@ grid-template-rows: auto auto ;
     }
     body{
       background: url('darkbgsmall.jpeg') no-repeat center center fixed;
+        background-size: cover;
     }
 }
 @media(max-width:700px){
